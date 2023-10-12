@@ -16,6 +16,3 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
-# Worldtime_App
-This app shows the current time of India and then if you want to view the time of a specific country then you can do so by editing the location and the local time of the location will be displayed
->>>>>>> 1bbff7ed9d4eb6cfa7b1dcce46dc1f2bb8c80208
